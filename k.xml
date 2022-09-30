@@ -1,41 +1,41 @@
 <yml_catalog date="2020-08-08 09:00">
- <shop>
-  <name>Керамир</name>
-  <company>ООО Керамир</company>
-  <url>https://keramir76.ru/</url>
-  <currencies>
-   <currency id="RUB" rate="1"/>
-  </currencies>
-  <categories>
-   <category id="1">Керамогранит</category>
-   <category id="2">Плитка</category>
-  </categories>
-  <offers>
-   <offer id="49797" available="true">
-    <name>Betonhome Керамогранит серый 60х60</name>
-    <price>716</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture>https://keramir76.ru/upload/iblock/4fa/d76a6cea-64fa-4d5a-997c-089f04c5a774___v8_9C63_28f30.jpeg</picture>
-    <url>https://keramir76.ru/catalog/000017793/49797.html</url>
-    <vendor>Laparet</vendor>  
-    <oldprice></oldprice>
-    <description></description>
-    <barcode></barcode>
-    <barcode></barcode>
-    <param name="Коллекция">Elegance</param> <!--Название коллекции -->
-    <param name="Площадь, в м2">0.36</param> 
-    <param name="Цвет">Серый</param> <!-- Цвет -->
-    <param name="Размер, в см">60х60</param> <!-- размер в см -->
-    <param name="Единица измерения">шт</param> <!-- единица измерения - либо коробка либо штука, соответсвенно тэг price будет указывать цену за коробку или за штуку -->
-    <param name="Архитектурное назначение">Пол; Стена</param> <!-- архитектурное назначение - для каких типов помещений или поверхностей используется -->
-    <param name="Тип повержности">Матовая</param> <!--тип поверхности - матовая, глянцевая, глазурованная, полированная, десятки их -->
-    <param name="Ректифицированная">Да</param> <!-- ректифицированный или нет (плитка отшлифована по краям, что позволяет ей быть уложенной с минимальными зазорами если да то ректифицированная если значение пустое или нет нет -->
-    <param name="Цена за квадратный метр">1990</param> <!-- цена за квадратный метр очень важный справочный параметр сортировать предлагаем как раз по нему так как цена за плитку или упаковку ничего не говорит о том сколько вы заплатите за метр -->
-    <param name="Квадратных метров в упаковке">1.44</param> <!-- количество квадратных метров в упаковке не очень релевантна если  параметр edizm в штуках -->
-    <param name="Штук в упаковке">4</param> <!--количество плиток в упаковкке не очень релевантна если  параметр edizm в штуках -->
-    <param name="Дизайн"></param> <!-- не у всех плиток есть, значения - Дерево, Паркет, Мрамор, много их -->
-   </offer>
-  </offers>
- </shop>
+    <shop>
+        <name>Керамир</name>
+        <company>ООО Керамир</company>
+        <url>https://keramir76.ru/</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+       <category id="1">Керамогранит</category>
+       <category id="2">Плитка</category>
+        </categories>
+        <offers>
+            <offer id="49797" available="true">
+           <name>Betonhome Керамогранит серый 60х60</name>
+           <price>716</price>
+           <currencyId>RUB</currencyId>
+           <categoryId>1</categoryId>
+           <picture>https://keramir76.ru/upload/iblock/4fa/d76a6cea-64fa-4d5a-997c-089f04c5a774___v8_9C63_28f30.jpeg</picture>
+           <url>https://keramir76.ru/catalog/000017793/49797.html</url>
+           <vendor>Laparet</vendor>  
+           <oldprice></oldprice>
+           <description></description>
+           <barcode></barcode>
+           <barcode></barcode>
+           <param name="Коллекция">Elegance</param> <!--Название коллекции -->
+           <param name="Площадь, в м2">0.36</param> 
+           <param name="Цвет">Серый</param> <!-- Цвет -->
+           <param name="Размер, в см">60х60</param> <!-- размер в см -->
+           <param name="Единица измерения">шт</param> <!-- единица измерения - либо коробка либо штука, соответсвенно тэг price будет указывать цену за коробку или за штуку -->
+           <param name="Архитектурное назначение">Пол; Стена</param> <!-- архитектурное назначение - для каких типов помещений или поверхностей используется -->
+           <param name="Тип повержности">Матовая</param> <!--тип поверхности - матовая, глянцевая, глазурованная, полированная, десятки их -->
+           <param name="Ректифицированная">Да</param> <!-- ректифицированный или нет (плитка отшлифована по краям, что позволяет ей быть уложенной с минимальными зазорами если да то ректифицированная если значение пустое или нет нет -->
+           <param name="Цена за квадратный метр">1990</param> <!-- цена за квадратный метр очень важный справочный параметр сортировать предлагаем как раз по нему так как цена за плитку или упаковку ничего не говорит о том сколько вы заплатите за метр -->
+           <param name="Квадратных метров в упаковке">1.44</param> <!-- количество квадратных метров в упаковке не очень релевантна если  параметр edizm в штуках -->
+           <param name="Штук в упаковке">4</param> <!--количество плиток в упаковкке не очень релевантна если  параметр edizm в штуках -->
+           <param name="Дизайн"></param> <!-- не у всех плиток есть, значения - Дерево, Паркет, Мрамор, много их -->
+            </offer>
+        </offers>
+    </shop>
 </yml_catalog>
