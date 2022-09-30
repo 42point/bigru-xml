@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2020-08-08T06:57:18+03:00">
+    <shop>
+        <name>Керамир</name>
+        <company>ООО Керамир</company>
+        <url>https://keramir76.ru/</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+           <category id="1">Керамогранит</category>
+           <category id="2">Плитка</category>
+        </categories>
+        <offers>
+            <offer id="49797" available="true">
+                <name>Betonhome Керамогранит серый 60х60</name>
+                <price>716</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://keramir76.ru/upload/iblock/4fa/d76a6cea-64fa-4d5a-997c-089f04c5a774___v8_9C63_28f30.jpeg</picture>
+                <url>https://keramir76.ru/catalog/000017793/49797.html</url>
+                <vendor>Laparet</vendor>  
+                <oldprice>716</oldprice>
+                <description></description>
+                <barcode></barcode>
+                <param name="Коллекция">Elegance</param>
+                <param name="Площадь, в м2">0.36</param> 
+                <param name="Цвет">Серый</param> 
+                <param name="Размер, в см">60х60</param>
+                <param name="Единица измерения">шт</param>
+                <param name="Архитектурное назначение">Пол; Стена</param>
+                <param name="Тип повержности">Матовая</param>
+                <param name="Ректифицированная">Да</param>
+                <param name="Цена за квадратный метр">1990</param>
+                <param name="Квадратных метров в упаковке">1.44</param>
+                <param name="Штук в упаковке">4</param>
+                <param name="Дизайн"></param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
